@@ -89,5 +89,5 @@ def part2() -> int:
     
     
 if __name__ == "__main__":
-    # print(part1(12,13,14))
+    print(part1(12,13,14))
     print(part2())
